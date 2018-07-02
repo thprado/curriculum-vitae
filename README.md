@@ -85,7 +85,7 @@ Espanhol: Intermediário
 ## Experência Profissional
 
 
-- **2018/fev - Até o momento | Analista de Sistemas | Bravo - Serviços Logísticos **
+- **2018/fev - Até o momento | Analista de Sistemas | Bravo - Serviços Logísticos**
 	> Desenvolvimento de aplicações Web, Front-end e Back-end, utilizando tecnologias como Angular, NodeJS, Express, Git, Oracle, PL/SQL, HTML5, CSS3, Bootstrap 4 e JavaScript (ES6).
   
   
