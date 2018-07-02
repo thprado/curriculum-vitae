@@ -67,6 +67,8 @@ Espanhol: Intermediário
 * Monitor de Identidade com integração no Facebook / Twitter.
 * Aplicativo para Facebook da Universidade de Uberaba.
 * Ambiente Virtual de Aprendizagem utilizando Moodle.
+* Projeto Sun, Earth and Code utilizando HTML5 e CSS3 concluído com 100% de aproveitamento. Por CodeCademy.
+* Projeto About You utilizando HTML5 e CSS3 concluído com 100% de aproveitamento. Por CodeCademy.
 
 
 ## Informações adicionais
@@ -77,3 +79,34 @@ Espanhol: Intermediário
 * Facilidade e interesse em estar sempre aprendendo e evoluíndo.
 * Criatividade.
 * Facilidade para trabalhar em grupo
+* 1º Lugar na Classificação do Sistema SQL ONLINE Entre mais de 1650 Alunos de todo o mundo. http://sqlweb.com.br/aluno/classificacao.php
+
+
+## Experência Profissional
+
+
+- **2018/fev - Até o momento | Analista de Sistemas | Bravo - Serviços Logísticos **
+	> Desenvolvimento de aplicações Web, Front-end e Back-end, utilizando tecnologias como Angular, NodeJS, Express, Git, Oracle, PL/SQL, HTML5, CSS3, Bootstrap 4 e JavaScript (ES6).
+  
+  
+- **2014/2017 | Analista de Sistemas | Universidade de Uberaba**
+	> Desenvolvimento de ferramentas web no Ambiente Virtual de Aprendizagem, utilizando como banco de dados o Oracle, PHP, JavaScript, JQuery, HTML, CSS e Bootstrap.
+  
+  
+- **2013/2014 | Estagiário de TI | Próatomo Engenharia LTDA**
+	> Liderança em serviços da área de Infraestrutura em TI, Suporte e Desenvolvimento Web com PHP e Java.
+  
+## Formação 
+
+* Universidade de Uberaba | Bacharelado em Sistemas de Informação (2015).
+* Curso de Extensão em Java Básico e Orientação a Objetos na Universidade de Uberaba Completo. Carga Horária: 40 Hrs.
+* Curso Online de Lógica de Programação. Softblue;
+* Curso Online de HTML Básico. Fundação Bradesco;
+* Curso Online de HTML Avançado. Fundação Bradesco;
+* Curso Online “Inovando com CSS”. Fundação Bradesco;
+* Curso Online de JavaScript. Fundação Bradesco;
+* Curso Online de PHP. CodeCademy;
+* Curso Online de Angular 2 - Parte 1. Alura;
+* Curso Online de Angular 2 - Parte 2. Alura;
+* Curso Online de Javascript Avançado I: ES6.. Alura;
+* Curso Online de Oracle I. Alura;
