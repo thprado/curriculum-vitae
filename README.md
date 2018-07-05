@@ -27,6 +27,7 @@ Espanhol: Intermediário
 * Restify
 * Laravel
 * Symfony
+* Mongoose
 * Programação Orientada à Objeto
 
 ### Front-End
