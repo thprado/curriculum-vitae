@@ -24,6 +24,7 @@ Espanhol: Intermediário
 * Hibernate (2 anos)
 * NodeJS
 * Express
+* Restify
 * Laravel
 * Symfony
 * Programação Orientada à Objeto
