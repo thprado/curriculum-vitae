@@ -7,7 +7,7 @@ Telefone: (34) 99698-8977
 
 E-mail: thiago.prado@edu.uniube.br
 
-Linkedin: https://www.linkedin.com/in/thiago-prado-177272154/
+Linkedin: https://www.linkedin.com/in/thprado
 
 Github: thprado
 
