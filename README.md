@@ -1,8 +1,8 @@
 ## Thiago Henrique do Prado
 
-Uberaba-MG.
+Uberlândia-MG.
 
-## Analista de Sistemas
+## Center Senior Specialist at Everis
 Telefone: (34) 99698-8977
 
 E-mail: thiago.prado@edu.uniube.br
@@ -35,8 +35,10 @@ Espanhol: Intermediário
 * Javascript (6 anos)
 * Responsive Design (5 anos)
 * Angular (1 ano)
+* AngularJS
 * ES6 
 * Webpack
+* Gulp
 * HTML5/CSS3
 * Pré-processadores (Sass, Less, Stylus)
 * jQuery
@@ -87,7 +89,10 @@ Espanhol: Intermediário
 ## Experência Profissional
 
 
-- **2018/fev - Até o momento | Analista de Sistemas | Bravo - Serviços Logísticos**
+- **2018/set - Até o momento | Center Senior Specialist | Everis**
+	> Desenvolvimento e manutenção de aplicações Web, Front-end e Back-end, utilizando tecnologias como AngularJS, Spring, Spring Boot, Angular, Git, PostgreSQl, Microsoft SQL Server, HTML5, CSS3, Bootstrap e JavaScript.
+
+- **2018/fev - 2018/ago | Analista de Sistemas | Bravo - Serviços Logísticos**
 	> Desenvolvimento de aplicações Web, Front-end e Back-end, utilizando tecnologias como Angular, NodeJS, Express, Git, Oracle, PL/SQL, HTML5, CSS3, Bootstrap 4 e JavaScript (ES6).
   
   
