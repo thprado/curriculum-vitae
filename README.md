@@ -86,7 +86,7 @@ Espanhol: Intermediário
 * 1º Lugar na Classificação do Sistema SQL ONLINE Entre mais de 1650 Alunos de todo o mundo. http://sqlweb.com.br/aluno/classificacao.php
 
 
-## Experência Profissional
+## Experiência Profissional
 
 
 - **2018/set - Até o momento | Center Senior Specialist | Everis**
