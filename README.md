@@ -90,7 +90,7 @@ Espanhol: Intermediário
 
 
 - **2018/set - Até o momento | Center Senior Specialist | Everis**
-	> Desenvolvimento e manutenção de aplicações Web, Front-end e Back-end, utilizando tecnologias como AngularJS, Spring, Spring Boot, Angular, Git, PostgreSQl, Microsoft SQL Server, HTML5, CSS3, Bootstrap e JavaScript.
+	> Desenvolvimento e manutenção de aplicações Web, Front-end e Back-end, utilizando tecnologias como AngularJS, Spring MVC, Spring Boot, Angular, Git, PostgreSQl, Microsoft SQL Server, HTML5, CSS3, Bootstrap e JavaScript.
 
 - **2018/fev - 2018/ago | Analista de Sistemas | Bravo - Serviços Logísticos**
 	> Desenvolvimento de aplicações Web, Front-end e Back-end, utilizando tecnologias como Angular, NodeJS, Express, Git, Oracle, PL/SQL, HTML5, CSS3, Bootstrap 4 e JavaScript (ES6).
