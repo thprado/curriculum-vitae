@@ -28,6 +28,9 @@ Espanhol: Intermediário
 * Laravel
 * Symfony
 * Mongoose
+* Spring MVC
+* Spring Boot
+* Slim Framework
 * Programação Orientada à Objeto
 
 ### Front-End
@@ -63,6 +66,10 @@ Espanhol: Intermediário
 * Sistema de Controle de versão (git)
 * Scrum
 * Kanban
+* Docker
+* Jenkins
+* SonarQube
+* Microservices
 
 ### Projetos:
 
