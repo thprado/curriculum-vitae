@@ -84,13 +84,11 @@ Espanhol: Intermediário
 
 ## Informações adicionais
 
-* User Experience 
-* Experiência em trabalhar com Produto.
-* Prezo muito pela qualidade do código.
-* Facilidade e interesse em estar sempre aprendendo e evoluíndo.
-* Criatividade.
-* Facilidade para trabalhar em grupo
 * 1º Lugar na Classificação do Sistema SQL ONLINE Entre mais de 1650 Alunos de todo o mundo. http://sqlweb.com.br/aluno/classificacao.php
+* Angular Expert by PluralSight
+* AngularJS Expert by PluralSight
+* Bootstrap Expert by PluralSight
+* JQuery Expert by PluralSight
 
 
 ## Experiência Profissional
