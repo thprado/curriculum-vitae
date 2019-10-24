@@ -3,7 +3,6 @@
 Uberlândia-MG.
 
 ## Center Senior Specialist at Everis
-Telefone: (34) 99698-8977
 
 E-mail: thiago.prado@edu.uniube.br
 
