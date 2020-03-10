@@ -12,15 +12,15 @@ Github: thprado
 
 Inglês: Avançado
 
-Espanhol: Intermediário
+Espanhol: Avançado
 
 
 ## Competências
 ### Back-End
 
-* PHP (6 Anos)
-* Java (3 Anos)
-* Hibernate (2 anos)
+* PHP
+* Java
+* Hibernate
 * NodeJS
 * Express
 * Restify
@@ -30,13 +30,12 @@ Espanhol: Intermediário
 * Spring MVC
 * Spring Boot
 * Slim Framework
-* Programação Orientada à Objeto
 
 ### Front-End
 
 * Javascript (6 anos)
 * Responsive Design (5 anos)
-* Angular (1 ano)
+* Angular
 * AngularJS
 * ES6 
 * Webpack
@@ -46,18 +45,19 @@ Espanhol: Intermediário
 * jQuery
 * Quasar
 
+
 ### Banco de Dados:
 
-* Oracle (5 anos)
-* PL/SQL Developer (5 anos)
-* MySQL (3 anos)
+* Oracle 
+* PL/SQL Developer
+* MySQL
 * PostgreSQL
 * MongoDB
-* Firebird
 
 ### Infraestrutura
 
 * Serviços AWS
+* Docker
 
 ### Outros:
 
@@ -65,7 +65,6 @@ Espanhol: Intermediário
 * Sistema de Controle de versão (git)
 * Scrum
 * Kanban
-* Docker
 * Jenkins
 * SonarQube
 * Microservices
